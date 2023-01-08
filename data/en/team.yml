@@ -1,0 +1,113 @@
+enable  : true
+topTitle: Member of the department
+title   : Our Team
+subtitle: 
+
+member  :
+  - image         : images/team/Gkresicher.jpg
+    name          : Gary Kreischer  - 301
+    designation   : Chief
+    description   : 
+
+
+  - image         : images/team/MKreischer.jpg
+    name          : Michael Kreischer - 302
+    designation   : Fire Captain 
+    description   :
+
+  - image         : images/team/DBall.jpg
+    name          : Dale Ball - 303
+    designation   : EMS Captain
+    description   : 
+
+  - image         : images/team/CKreisher.jpg
+    name          : Curtis Kreischer -304
+    designation   : lieutenant
+    description   : 
+
+
+  - image         : images/team/MBarricklow.jpg
+    name          : Matt Barricklow - 305
+    designation   : lieutenant
+    description   : 
+
+
+  - image         : images/team/BDull.jpg
+    name          : Bill Dull - 306
+    designation   : lieutenant
+    description   : 
+
+  - image         : images/team/SBall.jpg
+    name          : Sheryl Ball - 309
+    designation   : Fire Fighter/EMT-P/EMS Superviser
+    description   : 
+
+  - image         : images/team/OMckeddie.jpg
+    name          : Olivia Mckeddie - 311
+    designation   : EMT-B 
+    description   : 
+
+  - image         : images/team/HHernandez.jpg
+    name          : Hunter Hernandez - 313
+    designation   : Fire Fighter
+    description   : 
+
+  - image         : images/team/CHarting.jpg
+    name          : Colin Harting - 314
+    designation   : Fire Fighter
+    description   : 
+
+  - image         : images/team/LSchoenle.jpg
+    name          : Laura Schoenle - 315
+    designation   : EMT-B
+    description   : 
+
+  - image         : images/team/sRoberts.jpg
+    name          : Sam Roberts - 318
+    designation   : Fire Fighter
+    description   :
+
+  - image         : images/team/LShaner.jpg
+    name          : Larry Shaner - 319
+    designation   : Fire Fighter
+    description   : 
+
+  - image         : images/team/SWalls.jpg
+    name          : Sandy Walls - 320
+    designation   : EMT-B
+    description   : 
+
+  - image         : images/team/GBaxter.jpg
+    name          : Gary Baxter - 321
+    designation   : Fire Fighter
+    description   : 
+
+  - image         : images/team/JBrant.jpg
+    name          : Justin Brant - 322
+    designation   : EMT-B
+    description   :
+
+  - image         : images/team/NBreece.jpg
+    name          : Noah Breece - 323
+    designation   : Fire Fighter/EMT-B
+    description   : 
+
+  - image         : images/team/JLucentes.jpg
+    name          : John Lucentes - 324
+    designation   : Fire Fighter/EMR
+    description   : 
+
+  - image         : images/team/Bpoling.jpg
+    name          : Bryce Poling - 328
+    designation   : Fire Fighter/EMT-P
+    description   : 
+
+  - image         : images/team/CDawson.jpg
+    name          : Chaise Dawson - 330
+    designation   : Fire Fighter
+    description   : 
+
+  - image         : images/team/Csherer.jpg
+    name          : Chris Sherer - 331
+    designation   : Fire Fighter
+    description   : 

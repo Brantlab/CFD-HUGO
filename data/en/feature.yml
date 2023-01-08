@@ -1,0 +1,16 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-flame-outline
+    title : Number of Fire runs this year
+    description : >
+     Total of 23 fire runs from 1/1/2021 - 9/9/2021
+
+  - icon  : tf-ion-ios-medical-outline
+    title : Number of EMS runs this year
+    description : >
+      Total of 139 EMS runs from 1/1/2021 - 9/9/2021
+
+  - icon  : tf-ion-ios-book-outline
+    title : Hosted Trainings
+    description : >
+     We have hosted 7 continuing education events

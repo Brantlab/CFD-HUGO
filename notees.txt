@@ -1,0 +1,11 @@
+Removed from style.js
+
+$('.play-icon i').click(function () {
+    var video = '<iframe allowfullscreen src="' + $(this).attr('data-video') + '"></iframe>';
+    $(this).replaceWith(video);
+});
+
+
+Removed from footer
+<br>Get More
+            <a href="https://themefisher.com/free-bootstrap-templates/" target="_blank">Free Bootstrap Templates</a>
