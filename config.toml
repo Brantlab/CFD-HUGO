@@ -104,13 +104,20 @@ btnText = "Contact Us"
 [menu]
 #Navbar Menus
 [[menu.nav]]
+name    = "Events"
+url     = "/events/"
+weight  = 1
+
+[[menu.nav]]
 name    = "Volunteer"
 url     = "faq/volunteer/"
-weight  = 5
+weight  = 2
+
 [[menu.nav]]
 name    = "FAQ"
 url     = "faq"
-weight  = 6
+weight  = 3
+
 #[[menu.nav]]
 #name    = "Photos"
 #url     = "photos"
@@ -119,10 +126,7 @@ weight  = 6
 #name    = "blog"
 #url     = "blog"
 #weight  = 5
-#[[menu.nav]]
-#name    = "contact"
-#url     = "contact"
-#weight  = 3
+
 
 # Footer Service Menu
 #[[menu.service]]

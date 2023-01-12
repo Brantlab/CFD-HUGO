@@ -7,7 +7,7 @@ body {
 
 p {
   font-family: "Titillium Web", sans-serif;
-  color: #9a9a9a;
+  color: #363636;
   font-size: 15px;
 }
 
@@ -117,7 +117,7 @@ a:focus, a:hover {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 10px 0;
 }
 
 @media (max-width: 480px) {
@@ -1484,7 +1484,7 @@ a:focus, a:hover {
 ==================================================================*/
 .post-item {
   background: #fff;
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
 }
 
 .post-item .post-thumb {
@@ -1558,7 +1558,7 @@ a:focus, a:hover {
 
 .single-blog {
   background-color: #fff;
-  margin-bottom: 50px;
+ /* margin-bottom: 50px; */
   padding: 20px;
 }
 
@@ -1566,7 +1566,7 @@ a:focus, a:hover {
   font-size: 15px;
   padding-bottom: 10px;
   border-bottom: 1px solid #dedede;
-  margin-bottom: 25px;
+  /* margin-bottom: 25px; */
   text-transform: uppercase;
 }
 

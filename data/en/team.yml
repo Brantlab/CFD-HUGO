@@ -9,7 +9,6 @@ member  :
     designation   : Chief
     description   : 
 
-
   - image         : images/team/MKreischer.jpg
     name          : Michael Kreischer - 302
     designation   : Fire Captain 
@@ -25,12 +24,10 @@ member  :
     designation   : lieutenant
     description   : 
 
-
   - image         : images/team/MBarricklow.jpg
     name          : Matt Barricklow - 305
     designation   : lieutenant
     description   : 
-
 
   - image         : images/team/BDull.jpg
     name          : Bill Dull - 306
@@ -45,11 +42,6 @@ member  :
   - image         : images/team/OMckeddie.jpg
     name          : Olivia Mckeddie - 311
     designation   : EMT-B 
-    description   : 
-
-  - image         : images/team/HHernandez.jpg
-    name          : Hunter Hernandez - 313
-    designation   : Fire Fighter
     description   : 
 
   - image         : images/team/CHarting.jpg
@@ -95,11 +87,6 @@ member  :
   - image         : images/team/JLucentes.jpg
     name          : John Lucentes - 324
     designation   : Fire Fighter/EMR
-    description   : 
-
-  - image         : images/team/Bpoling.jpg
-    name          : Bryce Poling - 328
-    designation   : Fire Fighter/EMT-P
     description   : 
 
   - image         : images/team/CDawson.jpg

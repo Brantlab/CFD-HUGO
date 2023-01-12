@@ -10,6 +10,8 @@ other = "Contact"
 other = "FAQ"
 [Volunteer]
 other = "Volunteer"
+[Events]
+other = "Events"
 
 [graphicdesign]
 other = "EN Graphic Design"
