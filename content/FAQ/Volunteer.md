@@ -3,7 +3,7 @@ title: "Becoming a Volunteer"
 date: 2021-09-09T12:00:00+06:00
 image: images/IMG_1241.jpg
 author: Convoy Fire & EMS
-description: "Volunter Inquiry"
+description: "Volunteer Inquiry"
 ---
 Our Volunteers are needed to keep our community safe. We are looking for volunteers to help staff emergency services. We train all new volunteers to state standards and provide the appropriate gear.
 
