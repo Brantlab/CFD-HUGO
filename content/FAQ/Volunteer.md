@@ -20,5 +20,4 @@ Our Volunteers are needed to keep our community safe. We are looking for volunte
 
 ---
 
-**Option 3:**  Stop by the Village of Convoy office and fill out an appication 
-
+**Option 3:**  Stop by the Village of Convoy office and fill out an application 
