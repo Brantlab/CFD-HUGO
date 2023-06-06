@@ -16,7 +16,7 @@ Our Volunteers are needed to keep our community safe. We are looking for volunte
 
 ---
 
-**Option 2:** Fill out this [PDF](http://convoyfireandems.com/files/CFD_app.pdf) email it to chief@ConvoyFireandEMS.com
+**Option 2:** Fill out this [PDF](http://convoyfireandems.com/files/CFD_App.pdf) email it to chief@ConvoyFireandEMS.com
 
 ---
 
