@@ -1,4 +1,4 @@
-baseURL = "https://ConvoyFireAndEMS.com/"
+baseURL = "https://brantlab.com/CFD-HUGO/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
