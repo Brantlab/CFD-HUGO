@@ -39,6 +39,7 @@ A fire department auxiliary is a dedicated group of volunteers who provide inval
 - Clean driving record
 - First aid / CRP certified ( We can help you with this )
 - Can attend required meetings and trainings
+- Live within 20 minutes of 117 Franklin St, Convoy, OH 45832
 
 ## Items that will be taught
 
