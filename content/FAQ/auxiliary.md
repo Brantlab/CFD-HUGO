@@ -10,7 +10,7 @@ description: "What is the Fire Department auxiliary?"
 A fire department auxiliary is a dedicated group of volunteers who provide invaluable support and assistance to the main fire department. Comprised of community members passionate about firefighting and public safety, auxiliaries take on non-operational tasks that enhance the effectiveness of the fire department. These tasks can include community outreach, fundraising, administrative support, logistics management, training and drills, and non-emergency assistance. By relieving firefighters of non-operational responsibilities, fire department auxiliaries help ensure that the department can focus on its core mission of emergency response and firefighting, ultimately making the community safer.
 
 
-## Things to help out with
+## Ways to Contribute
 
 1. **1.** Community outreach: Auxiliary members can engage in public education initiatives, conducting fire safety presentations and distributing educational materials in the community.
 
@@ -32,7 +32,7 @@ A fire department auxiliary is a dedicated group of volunteers who provide inval
 
 10. **10.** Emergency incident:  Auxiliary members who have achieved Vol FF, FF1, or EMT/EMR certification will be permitted to participate in incident runs, provided they have been signed off.
 
-## Requirements to be an auxiliary
+## Requirements to Join
 
 - 18 years of age
 - No active warrants or felonies
@@ -40,16 +40,16 @@ A fire department auxiliary is a dedicated group of volunteers who provide inval
 - Can attend required meetings and trainings
 - Live within 20 minutes of 117 Franklin St, Convoy, OH 45832
 
-## Items that will be taught
+## Training Topics
 
-- First aid / CPR ( American Heart Certified )
+- First Aid / CPR ( American Heart Certified )
 - Communications
 - Scene awareness
 - EVOC ( Emergency Vehicle Operators course )
 - NIMS 100 & 700 ( National Incident Management System)
-- Possibility of further certification levels such as Vol FF, FF1, EMT/EMR
+- Possibility of future certifications such as Vol FF, FF1, EMT/EMR
 
-## Legal things
+## Other Notes
 
 - Added to villages liability and workmans comps insurance
 - Will follow the by-laws of the Convoy Fire & EMS association based on certification level
