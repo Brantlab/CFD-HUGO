@@ -53,3 +53,7 @@ A fire department auxiliary is a dedicated group of volunteers who provide inval
 
 - Added to villages liability and workmans comps insurance
 - Will follow the by-laws of the Convoy Fire & EMS association based on certification level
+
+## How to Join
+
+<a href="faq/volunteer/" target="_blank" class="btn btn-main">Want to know more?</a>
