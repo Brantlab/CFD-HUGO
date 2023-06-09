@@ -6,6 +6,10 @@ author: Fire Department
 description: "What is the Fire Department auxiliary?"
 ---
 
+
+A fire department auxiliary is a dedicated group of volunteers who provide invaluable support and assistance to the main fire department. Comprised of community members passionate about firefighting and public safety, auxiliaries take on non-operational tasks that enhance the effectiveness of the fire department. These tasks can include community outreach, fundraising, administrative support, logistics management, training and drills, and non-emergency assistance. By relieving firefighters of non-operational responsibilities, fire department auxiliaries help ensure that the department can focus on its core mission of emergency response and firefighting, ultimately making the community safer.
+
+
 ## Things to help out with
 
 1. Community outreach: Auxiliary members can engage in public education initiatives, conducting fire safety presentations and distributing educational materials in the community.
