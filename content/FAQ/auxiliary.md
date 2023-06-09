@@ -18,7 +18,7 @@ A fire department auxiliary is a dedicated group of volunteers who provide inval
 
 3. **3.** Administrative support: Auxiliaries can assist with administrative tasks, including record-keeping, data entry, organizing paperwork, and managing department schedules.
 
-4. **4.**Logistics and supply management: Can help with inventory management, equipment maintenance, and organizing supplies needed for emergency response.
+4. **4.** Logistics and supply management: Can help with inventory management, equipment maintenance, and organizing supplies needed for emergency response.
 
 5. **5.** Training and drills: Auxiliary members can participate in training exercises and drills alongside the fire department, allowing them to develop skills and be better prepared for emergencies.
 
