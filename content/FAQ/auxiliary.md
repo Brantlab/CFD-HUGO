@@ -42,7 +42,7 @@ A fire department auxiliary is a dedicated group of volunteers who provide inval
 
 ## Items that will be taught
 
-- First aid / CPR (American Heart Certified))
+- First aid / CPR ( American Heart Certified )
 - Communications
 - Scene awareness
 - EVOC ( Emergency Vehicle Operators course )
