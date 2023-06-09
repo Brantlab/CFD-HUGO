@@ -28,9 +28,9 @@ A fire department auxiliary is a dedicated group of volunteers who provide inval
 
 8. **8.** Non-emergency assistance: Auxiliaries can assist with non-emergency tasks such as fire station maintenance, vehicle cleaning, or organizing equipment.
 
-9. **9.** Emergency Response: Bringing equipment to the scene with valid EVOC certification and sign off
+9. **9.** Emergency Response: Bringing equipment to the scene with valid EVOC certification and provided they have been signed off.
 
-10. **10.** Emergency incident:  Vol FF, FF1, EMT/EMR is achieved will be allowed on incident runs as long as signed off.
+10. **10.** Emergency incident:  Auxiliary members who have achieved Vol FF, FF1, or EMT/EMR certification will be permitted to participate in incident runs, provided they have been signed off.
 
 ## Requirements to be an auxiliary
 
