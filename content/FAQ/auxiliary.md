@@ -56,4 +56,4 @@ A fire department auxiliary is a dedicated group of volunteers who provide inval
 
 ## How to Join
 
-<a href="faq/volunteer/" target="_blank" class="btn btn-main">Want to know more?</a>
+Click Here to apply [Volunteer](https://convoyfireandems.com/faq/volunteer/).
