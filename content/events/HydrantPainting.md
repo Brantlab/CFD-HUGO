@@ -21,7 +21,7 @@ Sherman Williams is offering a discount for this event only. Please tell them th
 
 **5.** Hydrants will be judged during Convoy Community Days by the public. Winners will be contacted at a later date. 
 
-**Please consider donating your left over paint to the Convoy Fire Department to paint any hydrants that were not painted during the contest.**
+**Please consider donating your leftover paint to the Convoy Fire Department to paint any hydrants that were not painted during the contest.**
 
 ### Click map for bigger map!
 
