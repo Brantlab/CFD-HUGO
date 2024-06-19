@@ -44,14 +44,24 @@ member  :
     designation   : EMT-B 
     description   : 
 
+  - image         : images/team/placeholder.jpg
+    name          : Sindi Matthews - 312
+    designation   : EMT-B 
+    description   : 
+
+  - image         : images/team/placeholder.jpg
+    name          : Brecken Matthews - 313
+    designation   : Fire Fighter
+    description   : 
+
   - image         : images/team/CHarting.jpg
     name          : Colin Harting - 314
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/LSchoenle.jpg
-    name          : Laura Schoenle - 315
-    designation   : EMT-B
+  - image         : images/team/placeholder.jpg
+    name          : Blake Boyher - 315
+    designation   : Probationary
     description   : 
 
   - image         : images/team/sRoberts.jpg
@@ -76,17 +86,22 @@ member  :
 
   - image         : images/team/JBrant.jpg
     name          : Justin Brant - 322
-    designation   : EMT-B
+    designation   : Fire Fighter/EMT-B
     description   :
 
   - image         : images/team/NBreece.jpg
     name          : Noah Breece - 323
-    designation   : Fire Fighter/EMT-B
+    designation   : Fire Fighter/EMT-A
     description   : 
 
   - image         : images/team/JLucentes.jpg
     name          : John Lucentes - 324
     designation   : Fire Fighter/EMR
+    description   : 
+
+  - image         : images/team/placeholder.jpg
+    name          : Paul Brant - 325
+    designation   : Fire Fighter
     description   : 
 
   - image         : images/team/CDawson.jpg
