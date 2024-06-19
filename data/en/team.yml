@@ -64,6 +64,11 @@ member  :
     designation   : Probationary
     description   : 
 
+  - image         : images/team/placeholder.jpg
+    name          : Paul Brant - 317
+    designation   : Fire Fighter
+    description   : 
+
   - image         : images/team/sRoberts.jpg
     name          : Sam Roberts - 318
     designation   : Fire Fighter
@@ -100,8 +105,13 @@ member  :
     description   : 
 
   - image         : images/team/placeholder.jpg
-    name          : Paul Brant - 325
+    name          : Scott Taylor - 325
     designation   : Fire Fighter
+    description   : 
+
+  - image         : images/team/placeholder.jpg
+    name          : Waylon Long - 329
+    designation   : EMT-B
     description   : 
 
   - image         : images/team/CDawson.jpg
