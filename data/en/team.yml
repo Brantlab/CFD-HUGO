@@ -7,32 +7,32 @@ member  :
   - image         : images/team/Gkresicher.jpg
     name          : Gary Kreischer  - 301
     designation   : Chief
-    description   : 
+    description   : "Email: chief@convoyfireandems.com"
 
   - image         : images/team/MKreischer.jpg
     name          : Michael Kreischer - 302
     designation   : Fire Captain 
-    description   :
+    description   : "Email: mkreischer@convoyfireandems.com"
 
   - image         : images/team/DBall.jpg
     name          : Dale Ball - 303
     designation   : EMS Captain
-    description   : 
+    description   : "Email: dball@convoyfireandems.com"
 
   - image         : images/team/CKreisher.jpg
     name          : Curtis Kreischer -304
     designation   : lieutenant
-    description   : 
+    description   : "Email: ckreischer@convoyfireandems.com"
 
   - image         : images/team/MBarricklow.jpg
     name          : Matt Barricklow - 305
     designation   : lieutenant
-    description   : 
+    description   : "Email: mbarricklow@convoyfireandems.com"
 
   - image         : images/team/BDull.jpg
     name          : Bill Dull - 306
     designation   : lieutenant
-    description   : 
+    description   : "Email: bdull@convoyfireandems.com"
 
   - image         : images/team/SBall.jpg
     name          : Sheryl Ball - 309
