@@ -21,17 +21,17 @@ member  :
 
   - image         : images/team/CKreisher.jpg
     name          : Curtis Kreischer -304
-    designation   : lieutenant
+    designation   : Lieutenant
     description   : "Email: ckreischer@convoyfireandems.com"
 
   - image         : images/team/MBarricklow.jpg
     name          : Matt Barricklow - 305
-    designation   : lieutenant
+    designation   : Lieutenant
     description   : "Email: mbarricklow@convoyfireandems.com"
 
   - image         : images/team/BDull.jpg
     name          : Bill Dull - 306
-    designation   : lieutenant
+    designation   : Lieutenant
     description   : "Email: bdull@convoyfireandems.com"
 
   - image         : images/team/SBall.jpg
