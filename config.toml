@@ -152,6 +152,6 @@ name    = "CERT"
 url     = "https://www.facebook.com/vwcert"
 weight  = 2
 [[menu.quicklink]]
-name    = "Fire Email"
+name    = "Email"
 url     = "https://outlook.com/convoyfireandems.com"
-weight  = 3
+weight  = 3 
