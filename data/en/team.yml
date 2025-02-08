@@ -1,5 +1,5 @@
 enable  : true
-topTitle: Member of the department
+topTitle: Members of the department
 title   : Our Team
 subtitle: 
 
@@ -62,7 +62,7 @@ member  :
 
   - image         : images/team/placeholder.jpg
     name          : Blake Boyher - 315
-    designation   : Probationary
+    designation   : Fire Fighter/EMT-B
     description   : 
 
   - image         : images/team/placeholder.jpg

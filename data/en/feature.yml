@@ -3,14 +3,14 @@ item  :
   - icon  : tf-ion-ios-flame-outline
     title : Number of Fire Figthers
     description : >
-     15
+     21
 
   - icon  : tf-ion-ios-medical-outline
     title : Number of EMS Personel
     description : >
-     13
+     14
 
   - icon  : tf-ion-ios-book-outline
     title : Total Personel
     description : >
-     21
+     25
