@@ -45,12 +45,12 @@ member  :
     designation   : EMT-B 
     description   : 
 
-  - image         : images/team/placeholder.jpg
+  - image         : images/team/SMatthews.jpg
     name          : Sindi Matthews - 312
     designation   : EMT-B 
     description   : 
 
-  - image         : images/team/placeholder.jpg
+  - image         : images/team/BMatthews.jpg
     name          : Brecken Matthews - 313
     designation   : Fire Fighter
     description   : 
@@ -60,12 +60,12 @@ member  :
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/placeholder.jpg
+  - image         : images/team/BBoyher.jpg
     name          : Blake Boyher - 315
     designation   : Fire Fighter/EMT-B
     description   : 
 
-  - image         : images/team/placeholder.jpg
+  - image         : images/team/PBrant.jpg
     name          : Paul Brant - 317
     designation   : Fire Fighter
     description   : 
@@ -105,12 +105,12 @@ member  :
     designation   : Fire Fighter/EMR
     description   : 
 
-  - image         : images/team/placeholder.jpg
+  - image         : images/team/STaylor.jpg
     name          : Scott Taylor - 325
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/placeholder.jpg
+  - image         : images/team/JHicks.jpg
     name          : Jacob Hicks - 326
     designation   : Fire Fighter
     description   : 
