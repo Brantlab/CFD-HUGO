@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convoy Fire &amp; EMS</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Convoy Fire &amp; EMS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 May 2024 12:00:00 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydrant Painting Contest</title>
+      <link>http://localhost:1313/events/hydrantpainting/</link>
+      <pubDate>Tue, 07 May 2024 12:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/events/hydrantpainting/</guid>
+      <description>The Convoy Fire Department is excited to host a hydrant painting contest, set to be a highlight of the upcoming Convoy Community Days celebration.</description>
+    </item>
+    <item>
+      <title>Becoming a Volunteer</title>
+      <link>http://localhost:1313/faq/volunteer/</link>
+      <pubDate>Thu, 09 Sep 2021 12:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/faq/volunteer/</guid>
+      <description>Our Volunteers are needed to keep our community safe. We are looking for volunteers to help staff emergency services.</description>
+    </item>
+    <item>
+      <title>Open Burning</title>
+      <link>http://localhost:1313/faq/open_burn/</link>
+      <pubDate>Fri, 01 May 2020 12:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/faq/open_burn/</guid>
+      <description>Open burning is any set outdoor fire that does not vent to a chimney or stack.</description>
+    </item>
+    <item>
+      <title>What is the Fire Department auxiliary?</title>
+      <link>http://localhost:1313/faq/auxiliary/</link>
+      <pubDate>Fri, 01 May 2020 12:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/faq/auxiliary/</guid>
+      <description>A fire department auxiliary is a dedicated group of volunteers who provide invaluable support and assistance to the main fire department.</description>
+    </item>
+    <item>
+      <title>FRANCAIS Blog</title>
+      <link>http://localhost:1313/blog/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 18:23:33 +0600</pubDate>
+      <guid>http://localhost:1313/blog/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feb Pancake Event</title>
+      <link>http://localhost:1313/photos/are-you-doing-the-right-way/</link>
+      <pubDate>Sat, 07 Jul 2018 17:04:41 +0600</pubDate>
+      <guid>http://localhost:1313/photos/are-you-doing-the-right-way/</guid>
+      <description>Introduction Had a great pancake event, Thank you all for coming out and supporting the fire dept.</description>
+    </item>
+    <item>
+      <title>FRANCAIS Contactez Nous</title>
+      <link>http://localhost:1313/contact/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:53:27 +0600</pubDate>
+      <guid>http://localhost:1313/contact/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FRANCAIS Contactez Nous</title>
+      <link>http://localhost:1313/faq/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:53:27 +0600</pubDate>
+      <guid>http://localhost:1313/faq/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FRANCAIS Contactez Nous</title>
+      <link>http://localhost:1313/photos/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:53:27 +0600</pubDate>
+      <guid>http://localhost:1313/photos/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FRANCAIS Portfolio</title>
+      <link>http://localhost:1313/portfolio/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
+      <guid>http://localhost:1313/portfolio/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FRANCAIS Our Services</title>
+      <link>http://localhost:1313/service/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
+      <guid>http://localhost:1313/service/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A propos de nous ...</title>
+      <link>http://localhost:1313/about/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
+      <guid>http://localhost:1313/about/_index.fr/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

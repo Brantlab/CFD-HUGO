@@ -4,113 +4,103 @@ title   : Our Team
 subtitle: 
 
 member  :
-  - image         : images/team/placeholder.jpg
+  - image         : images/team/2025/RMiller.jpg
     name          : Rob Miller  - 301
     designation   : Chief
     description   : "Email: chief@convoyfireandems.com"
 
-  - image         : images/team/MKreischer.jpg
+  - image         : images/team/2025/MKreischer.jpg
     name          : Michael Kreischer - 302
     designation   : Fire Captain 
     description   : "Email: mkreischer@convoyfireandems.com"
 
-  - image         : images/team/DBall.jpg
+  - image         : images/team/2025/DBall.jpg
     name          : Dale Ball - 303
     designation   : EMS Captain
     description   : "Email: dball@convoyfireandems.com"
 
-  - image         : images/team/CKreisher.jpg
-    name          : Curtis Kreischer -304
-    designation   : Lieutenant
-    description   : "Email: ckreischer@convoyfireandems.com"
-
-  - image         : images/team/MBarricklow.jpg
+  - image         : images/team/2025/MBarricklow.jpg
     name          : Matt Barricklow - 305
     designation   : Lieutenant
     description   : "Email: mbarricklow@convoyfireandems.com"
 
-  - image         : images/team/BDull.jpg
+  - image         : images/team/2025/BDull.jpg
     name          : Bill Dull - 306
     designation   : Lieutenant
     description   : "Email: bdull@convoyfireandems.com"
 
-  - image         : images/team/SBall.jpg
+  - image         : images/team/2025/SBall.jpg
     name          : Sheryl Ball - 309
     designation   : Fire Fighter/EMT-P/EMS Supervisor
     description   : "Email: sball@convoyfireandems.com"
 
 
-  - image         : images/team/OMckeddie.jpg
+  - image         : images/team/2025/ODawson.jpg
     name          : Olivia Mckeddie - 311
     designation   : EMT-B 
     description   : 
 
-  - image         : images/team/SMatthews.jpg
+  - image         : images/team/2025/SMatthews.jpg
     name          : Sindi Matthews - 312
     designation   : EMT-B 
     description   : 
 
-  - image         : images/team/BMatthews.jpg
+  - image         : images/team/2025/BMatthews.jpg
     name          : Brecken Matthews - 313
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/CHarting.jpg
+  - image         : images/team/2025/CHarting.jpg
     name          : Colin Harting - 314
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/BBoyher.jpg
+  - image         : images/team/2024/BBoyher.jpg
     name          : Blake Boyher - 315
     designation   : Fire Fighter/EMT-B
     description   : 
 
-  - image         : images/team/PBrant.jpg
+  - image         : images/team/2025/PBrant.jpg
     name          : Paul Brant - 317
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/sRoberts.jpg
+  - image         : images/team/2025/SRoberts.jpg
     name          : Sam Roberts - 318
     designation   : Fire Fighter
     description   :
 
-  - image         : images/team/LShaner.jpg
+  - image         : images/team/2024/LShaner.jpg
     name          : Larry Shaner - 319
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/SWalls.jpg
+  - image         : images/team/2025/SWalls.jpg
     name          : Sandy Walls - 320
     designation   : EMT-B
-    description   : 
+    description   :  
 
-  - image         : images/team/GBaxter.jpg
-    name          : Gary Baxter - 321
-    designation   : Fire Fighter
-    description   : 
-
-  - image         : images/team/JBrant.jpg
+  - image         : images/team/2025/JBrant.jpg
     name          : Justin Brant - 322
     designation   : Fire Fighter/EMT-B
     description   :
 
-  - image         : images/team/NBreece.jpg
+  - image         : images/team/2024/NBreece.jpg
     name          : Noah Breece - 323
     designation   : Fire Fighter/EMT-A
     description   : 
 
-  - image         : images/team/JLucentes.jpg
+  - image         : images/team/2025/JLucentes.jpg
     name          : John Lucentes - 324
     designation   : Fire Fighter/EMR
     description   : 
 
-  - image         : images/team/STaylor.jpg
+  - image         : images/team/2025/STaylor.jpg
     name          : Scott Taylor - 325
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/JHicks.jpg
+  - image         : images/team/2025/JHicks.jpg
     name          : Jacob Hicks - 326
     designation   : Fire Fighter
     description   : 
@@ -120,12 +110,12 @@ member  :
     designation   : EMT-B
     description   : 
 
-  - image         : images/team/CDawson.jpg
+  - image         : images/team/2025/CDawson.jpg
     name          : Chaise Dawson - 330
     designation   : Fire Fighter
     description   : 
 
-  - image         : images/team/Csherer.jpg
+  - image         : images/team/2025/CSherer.jpg
     name          : Chris Sherer - 331
     designation   : Fire Fighter
     description   : 
