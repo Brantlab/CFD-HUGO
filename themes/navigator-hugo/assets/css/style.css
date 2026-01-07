@@ -77,6 +77,20 @@ a:focus, a:hover {
     width: auto;
 }
 
+.event-banner {
+  background: #92f436;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 1.2rem;
+}
+.event-banner a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
 .btn-main:hover, .btn-main-sm:hover {
   color: #fff;
 }

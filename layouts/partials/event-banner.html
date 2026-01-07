@@ -1,0 +1,8 @@
+{{ $event := .Site.Params.upcomingEvent }}
+{{ if $event.enabled }}
+<div class="event-banner">
+  <a href="{{ $event.url }}">
+    <strong>{{ $event.title }}</strong> — {{ $event.date }} @ {{ $event.location }}
+  </a>
+</div>
+{{ end }}

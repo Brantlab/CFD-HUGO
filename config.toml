@@ -101,6 +101,14 @@ btnText = "Contact Us"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
+[params.upcomingEvent]
+enabled = true
+title = "Pancake Breakfast Fundraiser"
+date = "Saturday, Feb 7th - 6 AM thru 1 PM"
+location = "Edgewood Park Community Building"
+url = "/events/pancake2026/"
+
+
 #Site Menus
 [menu]
 #Navbar Menus
