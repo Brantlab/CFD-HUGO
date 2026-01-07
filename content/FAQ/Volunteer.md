@@ -4,8 +4,8 @@ title: "Becoming a Volunteer"
 image: images/team/2025/Staff.jpg
 author: Convoy Fire & EMS
 description: "Volunteer Inquiry"
-layout: page
-type: page
+#layout: page
+#type: page
 ---
 Our community depends on volunteers who are willing to step up and serve when it matters most. We are currently welcoming new volunteers to help support our emergency services. Whether you’re experienced or brand new, we provide state-standard training and supply all required equipment.
 
