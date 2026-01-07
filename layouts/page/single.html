@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+
+    <h1 class="mb-4">{{ .Title }}</h1>
+
+    {{ with .Params.image }}
+      <img
+        src="{{ . | relURL }}"
+        alt="{{ $.Title }}"
+        class="img-fluid w-100 mb-4"
+        style="height:auto;"
+      >
+    {{ end }}
+
+    {{ .Content }}
+
+  </div>
+</section>
+{{ end }}
