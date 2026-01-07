@@ -1415,6 +1415,10 @@ a:focus, a:hover {
 .team-member .member-photo {
   overflow: hidden;
   position: relative;
+  display: flex;
+  align-items: center;      /* vertical center */
+  justify-content: center;  /* horizontal center */
+  height: 300px; /* adjust to taste */
 }
 
 .team-member .member-photo img {
