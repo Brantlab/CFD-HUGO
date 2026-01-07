@@ -19,7 +19,7 @@ pygmentsCodeFences = true
 
 # Site Params
 [params]
-logo = "images/sticker_for_Web.png"
+logo = "images/convoy_logo_banner.png"
 
 # meta data
 author = "Convoy Fire and EMS"
@@ -33,7 +33,7 @@ languageCode = "en-us"
 title = "Convoy Fire & EMS"
 dateFormat = "January 2, 2006"
 home = "Home"
-logo = "images/Banner_Sticker_Text4.png"
+logo = "images/convoy_logo_banner.png"
 menufixed = true
 
 footerDescription = "Your local Convoy Fire & EMS official webpage. We are here to help."
@@ -56,7 +56,8 @@ description = "Our Volunteers are needed to keep our community safe. We are look
 button  = true
 btnText = "Want to know more?"
 btnURL  = "faq/volunteer/"
-videoThumb = "images/team/2025/Staff.jpg"
+#videoThumb = "images/team/2025/Staff.jpg"
+videoThumb = "images/official_Logo.png"
 #videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section

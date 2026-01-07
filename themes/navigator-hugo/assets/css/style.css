@@ -65,6 +65,18 @@ a:focus, a:hover {
   border-radius: 2px;
 }
 
+.video-player {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.video-player img {
+    max-height: 250px;
+    width: auto;
+}
+
 .btn-main:hover, .btn-main-sm:hover {
   color: #fff;
 }
@@ -567,12 +579,17 @@ a:focus, a:hover {
   padding: 8px 0;
 }
 
+.navbar-brand img {
+    max-height: 75px;
+    width: auto;
+}
+
 .navbar-brand h1 {
   margin: 0;
 }
 
 .hero-area {
-  padding: 150px 0;
+  padding: 50px 0;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
