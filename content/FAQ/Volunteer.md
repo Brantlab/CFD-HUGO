@@ -7,7 +7,8 @@ description: "Volunteer Inquiry"
 #layout: page
 #type: page
 ---
-Our community depends on volunteers who are willing to step up and serve when it matters most. We are currently welcoming new volunteers to help support our emergency services. Whether you’re experienced or brand new, we provide state-standard training and supply all required equipment.
+Our community depends (or relies) on dedicated volunteers to help keep everyone safe. We are seeking motivated individuals to serve as Volunteer Firefighters and EMTs to support local emergency services.
+No prior experience is required. We provide all training to state standards, along with the necessary protective gear and equipment. Volunteers respond to fires, medical emergencies, accidents, and other critical situations while working as part of a committed team.
 
 
 ---

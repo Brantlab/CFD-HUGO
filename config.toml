@@ -52,7 +52,7 @@ expire_days = 2
 [Languages.en.params.hero]
 enable  = true
 heading = "Volunteer Fire Fighters and EMTs Wanted"
-description = "Our Volunteers are needed to keep our community safe. We are looking for volunteers to help staff emergency services. We train all new volunteers to state standards and provide the appropriate gear. "
+description = "Our community depends (or relies) on dedicated volunteers to help keep everyone safe. We are seeking motivated individuals to serve as Volunteer Firefighters and EMTs to support local emergency services. No prior experience is required. We provide all training to state standards, along with the necessary protective gear and equipment. Volunteers respond to fires, medical emergencies, accidents, and other critical situations while working as part of a committed team."
 button  = true
 btnText = "Want to know more?"
 btnURL  = "faq/volunteer/"

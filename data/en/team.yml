@@ -35,10 +35,10 @@ member  :
     description   : "Email: sball@convoyfireandems.com"
 
 
-  - image         : images/team/2025/ODawson.jpg
-    name          : Olivia Mckeddie - 311
-    designation   : EMT-B 
-    description   : 
+#  - image         : images/team/2025/ODawson.jpg
+#    name          : Olivia Mckeddie - 311
+#    designation   : EMT-B 
+#    description   : 
 
   - image         : images/team/2025/SMatthews.jpg
     name          : Sindi Matthews - 312
@@ -112,7 +112,7 @@ member  :
 
   - image         : images/team/2025/CDawson.jpg
     name          : Chaise Dawson - 330
-    designation   : Fire Fighter
+    designation   : Fire Fighter/EMT-B
     description   : 
 
   - image         : images/team/2025/CSherer.jpg
